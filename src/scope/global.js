@@ -13,3 +13,10 @@ function bestFruit() {
 }
 
 bestFruit(); // Apple
+
+function countries(){
+    country = 'Colombia';
+    console.log(country);
+}
+
+countries(); // Colombia
